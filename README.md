@@ -1,4 +1,4 @@
 # Aura
 Basic C stuff
 <br>
-Author - Shashank Mehra
+Author - Shashank Mehra GEU
